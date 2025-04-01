@@ -20,8 +20,8 @@ Find strong correlation between 3 columns
 ![image](https://github.com/user-attachments/assets/da4b14b5-7489-4f6f-98f9-0a5eab9fd2a1)
 
 # Creating the Linear Regression Model
-The Linear Regression model was created using Scikit-learn library.
-The model's performance was evaluated using metrics such as Mean absolute error and RMS.
+The Linear Regression model was created using Scikit-learn library.<br>
+The model's performance was evaluated using metrics such as Mean absolute error and RMS.<br>
 The score was calculated whihc came out as 0.98
 
 # Conclusion
