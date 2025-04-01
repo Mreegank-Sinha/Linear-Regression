@@ -10,6 +10,7 @@ Findings reveal that mobile app usage has a strong correlation with spending, wh
 ## Dataset
 The dataset is taken from kaggle.
 This dataset is having data of customers who buys clothes online. The store offers in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience or their website.
+![image](https://github.com/user-attachments/assets/67ea6f4c-f790-4a5a-b478-c1fc034e9153)
 
 ## Exploratory Data Analysis
 Ploted data to get insights.
