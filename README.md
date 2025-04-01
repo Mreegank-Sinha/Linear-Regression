@@ -18,3 +18,11 @@ Created correlation matrix to find correlation between columns.
 Created Pairplot to visualise correlation.
 Find strong correlation between 3 columns
 ![image](https://github.com/user-attachments/assets/da4b14b5-7489-4f6f-98f9-0a5eab9fd2a1)
+
+# Creating the Linear Regression Model
+The Linear Regression model was created using Scikit-learn library.
+The model's performance was evaluated using metrics such as Mean absolute error and RMS.
+The score was calculated whihc came out as 0.98
+
+# Conclusion
+The analysis reveals that length of membership is the strongest predictor of customer spending, followed by mobile app usage, which has a significant positive impact. In contrast, time spent on the desktop website shows little to no correlation with spending, suggesting it is less effective in driving sales. Based on these insights, the company should prioritize enhancing the mobile app experience while considering improvements to the website to boost engagement and conversions.
